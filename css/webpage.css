@@ -190,19 +190,19 @@ body{
 }
 .container .details .blogs .trademark{
     height: 100px;
-    width: 40%;
+    width: 50%;
     background-color: white;
     border: 1px solid orangered;
     border-radius: 15px;
     margin-bottom: 20px;
     text-align: center;
     overflow:hidden;
-    
+    padding: 10px;
     transition: all 0.5s;
     
 }
 .container .details .blogs .trademark:hover{
-    width: 50%;
+    width: 60%;
     box-shadow: 6px 4px 10px 2px rgb(255, 163, 51);
     cursor: pointer;
     overflow: auto;  
@@ -211,20 +211,20 @@ body{
 .container .details .blogs .patent{
     float:right;
     height: 100px;
-    width: 40%;
+    width: 50%;
     background-color: white;
     border: 1px solid orangered;
     border-radius: 15px;
     margin-bottom: 20px;
     text-align: center;
     overflow: hidden;
-    
+    padding: 10px;
     transition: all 0.5s;
 
 }
 .container .details .blogs .patent:hover{
    
-    width: 50%;
+    width: 60%;
     cursor: pointer;
     box-shadow: 6px 4px 10px 2px rgb(255, 163, 51);
     overflow: auto;  
@@ -234,19 +234,19 @@ body{
     clear:right;
     float:left;
     height: 100px;
-    width: 40%;
+    width: 50%;
     background-color: white;
     border: 1px solid orangered;
     border-radius: 15px;
     margin-bottom: 20px;
     text-align: center;
     overflow:hidden;
-    
+    padding: 10px;
     transition: all 0.5s;
 
 }
 .container .details .blogs .copyrights:hover{
-    width: 50%;
+    width: 60%;
     box-shadow: 6px 4px 10px 2px rgb(255, 163, 51);
     cursor: pointer;
     overflow: auto;  
@@ -255,19 +255,19 @@ body{
     clear:left;
     float:right;
     height: 100px;
-    width: 40%;
+    width: 50%;
     background-color: white;
     border: 1px solid orangered;
     border-radius: 15px;
     margin-bottom: 20px;
     text-align: center;
     overflow: hidden;
-    
+    padding: 10px;
     transition: all 0.5s;
 
 }
 .container .details .blogs .design:hover{
-    width: 50%;
+    width: 60%;
     box-shadow: 6px 4px 10px 2px rgb(255, 163, 51);
     cursor: pointer; 
     overflow: auto;  
